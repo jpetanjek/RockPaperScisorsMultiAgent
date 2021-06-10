@@ -1,0 +1,2 @@
+Ako nije dostupni razvojni alat, moguce je pokrenuti program konzolno, prvo se je po- ´
+trebno navigirati do mjesta gdje je kompiliran ".jar", te onda nad njim izvesti pokretanje, odnosno: "java -jar VAS2020-1.jar"
